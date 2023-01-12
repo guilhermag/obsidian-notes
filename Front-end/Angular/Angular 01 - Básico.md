@@ -19,3 +19,6 @@ class="input"
 <p>{{ pensamento.conteudo }}</p>
 ```
 
+
+
+
