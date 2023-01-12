@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Readme.md",
+                "file": "Front-end/Angular/Angular 01 - Básico.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Readme.md",
+                "file": "Front-end/Angular/Angular 01 - Básico.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Readme.md",
+                "file": "Front-end/Angular/Angular 01 - Básico.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Readme.md"
+                "file": "Front-end/Angular/Angular 01 - Básico.md"
               }
             }
           }
@@ -146,8 +146,9 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "d85c6407573c937b",
+  "active": "333587046471fddd",
   "lastOpenFiles": [
+    "Readme.md",
     "2023-01-11.md",
     "Front-end/Angular/Angular 01 - Básico.md",
     "Notas.md",
