@@ -28,5 +28,13 @@ Utilizado em propriedades, com a lógica **[propriedade]="valor"** ou com **inte
 ```
 
 ## Two-way data-binding
+Utilizando **[(ngModel)]**.
+```html
+<input
+	type="textarea"
+	class="input"
+	[(ngModel)]="pensamento.conteudo"
+/>
+```
 
 
