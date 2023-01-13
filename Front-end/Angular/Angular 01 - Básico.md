@@ -1,5 +1,4 @@
 ## Property Binding
-
 ```typescript
 pensamento = {
 	conteudo: 'Aprendendo Angular',
@@ -15,8 +14,8 @@ Utilizado em propriedades, com a lógica **[propriedade]="valor"** ou com **inte
 <!-- Interpolação-->
 <p>{{ pensamento.conteudo }}</p>
 ```
-## Event Binding
 
+## Event Binding
 Utiliza **(evento)="método()"**.
 ```typescript
 criarPensamento() {
@@ -28,5 +27,6 @@ Utilizado em propriedades, com a lógica **[propriedade]="valor"** ou com **inte
 <button (click)="criarPensamento()" class="botao">Salvar</button>
 ```
 
+## Two-way data-binding
 
 
