@@ -50,6 +50,12 @@ O *ngFor* é utilzado para renderizar um conjunto de elementos *ngIf* para rende
 </div>
 
 
+<ng-template #semPensamentosMessage>
+	<div class="ff-inter sem-pensamentos">
+		<p>Ainda não há pensamentos cadastrados!</p>
+	</div>
+
+</ng-template>
 ```
 
 
