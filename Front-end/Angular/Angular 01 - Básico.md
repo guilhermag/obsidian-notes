@@ -37,4 +37,19 @@ Utilizando **[(ngModel)]**.
 />
 ```
 
+## ngFor, ngIf e ng-template.
+O *ngFor* é utilzado para renderizar um conjunto de elementos *ngIf* para renderizacao condicional e o *ng-template* para ser renderizado apenas quando for chamado.
+```html
+
+<h2 *ngIf="naoExistemPensamentos">
+	Ainda não há pensamentos cadastrados!
+</h2>
+
+<div *ngFor="let pensamento of listaPensamentos">
+	<app-pensamento [pensamento]="pensamento"></app-pensamento>
+</div>
+
+
+```
+
 
