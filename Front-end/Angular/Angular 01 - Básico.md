@@ -58,4 +58,5 @@ O *ngFor* é utilzado para renderizar um conjunto de elementos *ngIf* para rende
 </ng-template>
 ```
 
-
+## NgClass
+Estilos condicionais, 

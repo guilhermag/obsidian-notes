@@ -1,8 +1,0 @@
-- Contato:  Anayle
-- Rua Guaira, 605, REF 9680
-- O termo de reserva precisa de todas as assinaturas ?
--  Site da COPEL:
-	-  Vocês podem informar a unidade consumidora ?
-	-  **Não foram encontradas unidades consumidoras desligadas no endereço informado.**
-	-  Seria troca de titularidade ?
--  Para a sanepar seria a mesma coisa ? troca de titularidade ?
