@@ -59,4 +59,19 @@ O *ngFor* é utilzado para renderizar um conjunto de elementos *ngIf* para rende
 ```
 
 ## NgClass
-Estilos condicionais, 
+Estilos condicionais podendo utilizar vários tipos de condições.
+```html
+<div [ngClass]="larguraPensamento()">
+	teste
+</div>
+```
+Como um método.
+```typescript
+larguraPensamento(): string {
+	if (this.pensamento.conteudo.length >= 256) {
+		return 'pensamento-g';
+	}	
+	return 'pensamento-p';
+	}
+```
+
