@@ -10,12 +10,15 @@
 	3. Criação da Home.
 	4. Tela simples apenas com o logo da aplicação e sua apresentação.
 3. Listagem de moedas.
-	1. Criação do *PageListComponent* 
-4. Conversão de moedas.
-5. Histórico de conversões.
-6. Exclusão de histórico de conversão.
-7. Identificar valores de conversão altos.
-8. Testes
+	1. Criação do *ExchangeService*
+		1. método *getSymbols()*
+		2. Interfaces de resposta da API e de retorno para a função.
+	2. Criação do *PageListComponent* 
+5. Conversão de moedas.
+6. Histórico de conversões.
+7. Exclusão de histórico de conversão.
+8. Identificar valores de conversão altos.
+9. Testes
 	1. Configuração do ambiente.
 	2. ExchangeService.
 	3. StorageDataService.
